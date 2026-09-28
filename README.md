@@ -1,0 +1,2 @@
+# premium-cameo-carve-001-cameo-carving-shell-layer-cr
+Tired of losing track of which shell layer you've carved next? Your cameo masterpieces deserve a system as precise as your tools.  This Notion hub eliminates the chaos of managing multiple shell layers, design iterations, and tool inventory. It centralizes your entire cameo carving workflow so you never miss a layer or waste time hunting for notes.
